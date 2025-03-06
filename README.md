@@ -4,7 +4,7 @@ Submitted by: **Amir Pourmand**
 
 **Wordle Pt. 2** is an app that allows users to guess a word with a certain number of tries and it continues from part 1 of last week except now we can change the settings and modify the rules of the game!
 
-Time spent: **4** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -22,13 +22,17 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality:  I would add color changing feature to make the app more personaliized for users!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/7bbed13a51cd4ee989eb33e9e87d55fa">
+    </a>
+    <a href="https://www.loom.com/share/7bbed13a51cd4ee989eb33e9e87d55fa">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7bbed13a51cd4ee989eb33e9e87d55fa-56b443d225a1d5e0-full-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
